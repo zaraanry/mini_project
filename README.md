@@ -32,7 +32,7 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 | ▪ Produced a README with business-ready tables & interpretations | ✅ Translating SQL output into insights |
 | ▪ Added extra “bonus” queries (top growers, Kenya’s rank, world shares) | ✅ Initiative & domain reasoning |
 
-**→ [Browse the SQL notebook in the`main.sql` script](https://github.com/zaraanry/mini_project/tree/main/Global%20Population%20Analysis%20Project%20(SQL))**
+**→ [Browse the SQL notebook folder](https://github.com/zaraanry/mini_project/tree/main/Global%20Population%20Analysis%20Project%20(SQL))**
 
 ---
 
