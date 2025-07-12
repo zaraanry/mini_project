@@ -36,10 +36,27 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 
 ---
 
+## 3 Python + Pandas • Exploratory Data Analysis
+
+**Project:** **Titanic Survival Study**
+**Objective:** Use Python, Pandas and Seaborn to uncover the demographic and socio‑economic patterns behind who lived and who didn’t.
+
+| What I did                                                                                                                    | Skills demonstrated                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| ▪ Cleaned & filtered the classic `titanic3.csv` dataset (handling `NaN`s, relabelling categories)                             | ✅ Data wrangling in Pandas                   |
+| ▪ Calculated headline metrics (average age of survivors, survival % by gender & class)                                        | ✅ Descriptive statistics                     |
+| ▪ Built seven publication‑quality visuals—bar, box and scatter plots—that layer up to five variables at once                  | ✅ Data visualisation with Matplotlib/Seaborn |
+| ▪ Interpreted findings for a non‑technical audience | ✅ Insight communication & storytelling       |
+
+**→ [Open the Jupyter notebook](https://github.com/zaraanry/mini_project/blob/main/Titanic%20Survival%20Study/titanic_analysis.ipynb)**
+
+---
+
 ## What’s next?
-Coming soon:  
-* **Python + Pandas** mini-project (time-series cleaning)  
-* **Power BI** interactive report (retail basket analysis)  
+
+Coming soon:
+
+* **Power BI** interactive report (AdventureWorks2019)
 
 ---
 
