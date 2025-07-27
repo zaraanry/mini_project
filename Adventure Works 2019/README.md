@@ -10,7 +10,7 @@ This repository contains an interim analytics project using the **AdventureWorks
 ---  
 
   
-**Quick links:** [Presentation (PDF)](reports/AdventureWorks_Interim_Presentation.pdf) • [Full Report (PDF)](reports/AdventureWorks_Interim_Report.pdf)
+**Quick links:** [Presentation (PDF)](https://github.com/zaraanry/mini_project/blob/main/Adventure%20Works%202019/Presentation.pdf) • [Full Report (PDF)](https://github.com/zaraanry/mini_project/blob/main/Adventure%20Works%202019/Interim%20Project.pdf)
 
 ---
   
