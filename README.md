@@ -48,7 +48,7 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 | ▪ Built seven publication‑quality visuals—bar, box and scatter plots—that layer up to five variables at once                  | ✅ Data visualisation with Matplotlib/Seaborn |
 | ▪ Interpreted findings for a non‑technical audience | ✅ Insight communication & storytelling       |
 
-**→ [Open the Jupyter notebook](https://github.com/zaraanry/mini_project/blob/main/Titanic%20Survival%20Study/titanic_analysis.ipynb)**
+**→ [Open the Jupyter notebook](https://github.com/zaraanry/mini_project/blob/main/Titanic%20Survival%20Analysis%20(Python)/titanic.ipynb)**
 
 ---
 
