@@ -65,12 +65,12 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 | ▪ Turned analytics into actions (marketing focus, store audits, wellness initiatives) | Business insight & prioritisation |
 
 **Key results (highlights):**
-- **US revenue concentration:** California, Washington & Texas together contribute **~55%** of total US sales—prime targets for incremental spend.  
-- **Leave vs bonus:** **No meaningful correlation** between vacation hours and sales bonus (**r = −0.041**, n = 17).  
-- **Country mix:** Australia ranks **3rd** on total revenue but **last** on revenue per customer; **USA+Canada ≈72.5%** of global revenue.  
-- **Store maturity:** Trading duration shows a **moderate positive** link to revenue (**r = 0.41**, 635 stores); top earners are **32–34‑month** locations, with some **8–22‑month** stores already above **$0.10 M**.  
-- **Size & staffing:** Store size and headcount are **tightly coupled** (**r ≈ 0.97**) but both are **weakly related to revenue**; average revenue ~**$192k (large)**, **$172k (small)** vs **$53k (medium)**—medium stores need optimisation.  
-- **Sick‑leave patterns:** Production’s scale drives the highest total sick‑leave; Shipping & Receiving posts the highest average (**67 h**) vs Engineering (**29 h**). Corporate staff generate **95.6%** of total hours (more people), night shift has the highest average; day shift holds **60.8%** of total due to size.  
+- **US revenue concentration:** California, Washington & Texas together contribute 55% of total US sales—prime targets for incremental spend.  
+- **Leave vs bonus:** No meaningful correlation between vacation hours and sales bonus (r = −0.041, n = 17).  
+- **Country mix:** Australia ranks 3rd on total revenue but last on revenue per customer; USA + Canada = 72.5% of global revenue.  
+- **Store maturity:** Trading duration shows a moderate positive link to revenue (r = 0.41, 635 stores); top earners are 32-34-month locations, with some 8–22‑month stores already above $0.10 M.  
+- **Size & staffing:** Store size and headcount are tightly coupled (r = 0.97) but both are weakly related to revenue; average revenue $192k (large), $172k (small) vs $53k (medium), medium stores need optimisation.  
+- **Sick‑leave patterns:** Production’s scale drives the highest total sick‑leave; Shipping & Receiving posts the highest average (67 h) vs Engineering (29 h). Corporate staff generate 95.6% of total hours (more people), night shift has the highest average; day shift holds 60.8% of total due to size.  
 
 **→ [Read the report (PDF)](https://github.com/zaraanry/mini_project/blob/main/Adventure%20Works%202019/Interim%20Project.pdf)** 
 **→ [View the slides](https://github.com/zaraanry/mini_project/blob/main/Adventure%20Works%202019/Presentation.pdf)** 
