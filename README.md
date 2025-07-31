@@ -2,7 +2,7 @@
 _A collection of bite-sized, self-contained projects completed during my Generation Data Analytics boot camp._
 
 Each module of the programme introduced a new tool or language; every time, I wrapped up the learning with a focused project that put the concepts into practice.  
-Below is a quick tour—what the task was, what I produced, and a link to the finished work.
+Below is a quick tour; what the task was, what I produced, and a link to the finished work.
 
 ---
 
