@@ -12,10 +12,10 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 
 | What I did | Skills demonstrated |
 |------------|--------------------|
-| ▪ Data cleaning & type fixes in Power Query | Data wrangling in Excel/Power Query |
-| ▪ Built DAX measures for YoY % change | Pivot Tables & DAX |
-| ▪ Designed a slicer-driven dashboard (region, avocado type, date) | Dashboard layout & KPI cards |
-| ▪ Recommended pricing & supply moves based on regional demand | Storytelling with data |
+| Data cleaning & type fixes in Power Query | Data wrangling in Excel/Power Query |
+| Built DAX measures for YoY % change | Pivot Tables & DAX |
+| Designed a slicer-driven dashboard (region, avocado type, date) | Dashboard layout & KPI cards |
+| Recommended pricing & supply moves based on regional demand | Storytelling with data |
 
 **→ [View the dashboard](https://sites.google.com/view/avocadotrendanalysis/home)**
 
@@ -27,10 +27,10 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 
 | What I did | Skills demonstrated |
 |------------|--------------------|
-| ▪ Re-modelled a schema issue (`INTEGER` → `FLOAT`) to keep decimal precision | Database design & refactoring |
-| ▪ Created parameterised queries: smallest population, Africa total 2010, Europe CAGR, etc. | Joins, aggregates, window functions |
-| ▪ Produced a README with business-ready tables & interpretations | Translating SQL output into insights |
-| ▪ Added extra “bonus” queries (top growers, Kenya’s rank, world shares) | Initiative & domain reasoning |
+| Re-modelled a schema issue (`INTEGER` → `FLOAT`) to keep decimal precision | Database design & refactoring |
+| Created parameterised queries: smallest population, Africa total 2010, Europe CAGR, etc. | Joins, aggregates, window functions |
+| Produced a README with business-ready tables & interpretations | Translating SQL output into insights |
+| Added extra “bonus” queries (top growers, Kenya’s rank, world shares) | Initiative & domain reasoning |
 
 **→ [Browse the SQL notebook folder](https://github.com/zaraanry/mini_project/tree/main/Global%20Population%20Analysis%20Project%20(SQL))**
 
@@ -43,10 +43,10 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 
 | What I did                                                                                                                    | Skills demonstrated                          |
 | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| ▪ Cleaned & filtered the classic `titanic3.csv` dataset (handling `NaN`s, relabelling categories)                             | Data wrangling in Pandas                   |
-| ▪ Calculated headline metrics (average age of survivors, survival % by gender & class)                                        | Descriptive statistics                     |
-| ▪ Built seven publication‑quality visuals—bar, box and scatter plots—that layer up to five variables at once                  | Data visualisation with Matplotlib/Seaborn |
-| ▪ Interpreted findings for a non‑technical audience | Insight communication & storytelling       |
+| Cleaned & filtered the classic `titanic3.csv` dataset (handling `NaN`s, relabelling categories)                             | Data wrangling in Pandas                   |
+| Calculated headline metrics (average age of survivors, survival % by gender & class)                                        | Descriptive statistics                     |
+| Built seven publication‑quality visuals; bar, box and scatter plots, that layer up to five variables at once                  | Data visualisation with Matplotlib/Seaborn |
+| Interpreted findings for a non‑technical audience | Insight communication & storytelling       |
 
 **→ [Open the Jupyter notebook](https://github.com/zaraanry/mini_project/blob/main/Titanic%20Survival%20Analysis%20(Python)/titanic.ipynb)**
 
@@ -59,10 +59,10 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 
 | What I did | Skills demonstrated |
 |------------|--------------------|
-| ▪ Built CTE‑driven T‑SQL pipelines across Sales, Person & HR; parsed XML store demographics (size & employees) | Advanced SQL (CTEs, joins, XML shredding) |
-| ▪ Quantified relationships (Pearson r, OLS trend) and normalised metrics (per‑customer / per‑employee) | Statistics & feature engineering |
-| ▪ Produced executive visuals (bar & choropleth, scatter + regression with CI, heat‑map, pair‑plot, 3‑D scatter) | Visualisation & storytelling |
-| ▪ Turned analytics into actions (marketing focus, store audits, wellness initiatives) | Business insight & prioritisation |
+| Built CTE‑driven T‑SQL pipelines across Sales, Person & HR; parsed XML store demographics (size & employees) | Advanced SQL (CTEs, joins, XML shredding) |
+| Quantified relationships (Pearson r, OLS trend) and normalised metrics (per‑customer / per‑employee) | Statistics & feature engineering |
+| Produced executive visuals (bar & choropleth, scatter + regression with CI, heat‑map, pair‑plot, 3‑D scatter) | Visualisation & storytelling |
+| Turned analytics into actions (marketing focus, store audits, wellness initiatives) | Business insight & prioritisation |
 
 **Key results:**
 - **US revenue concentration:** California, Washington & Texas together contribute 55% of total US sales; prime targets for incremental spend.  
