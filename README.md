@@ -64,7 +64,7 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 | ▪ Produced executive visuals (bar & choropleth, scatter + regression with CI, heat‑map, pair‑plot, 3‑D scatter) | Visualisation & storytelling |
 | ▪ Turned analytics into actions (marketing focus, store audits, wellness initiatives) | Business insight & prioritisation |
 
-**Key results (highlights):**
+**Key results:**
 - **US revenue concentration:** California, Washington & Texas together contribute 55% of total US sales—prime targets for incremental spend.  
 - **Leave vs bonus:** No meaningful correlation between vacation hours and sales bonus (r = −0.041, n = 17).  
 - **Country mix:** Australia ranks 3rd on total revenue but last on revenue per customer; USA + Canada = 72.5% of global revenue.  
