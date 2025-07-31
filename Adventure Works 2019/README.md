@@ -78,16 +78,16 @@ This repository contains an interim analytics project using the **AdventureWorks
 
   
 
-- Focus marketing in **California, Washington, Texas** to lift revenue fastest; diagnose under‑performing territories.
+- Focus marketing in California, Washington, Texas to lift revenue fastest; diagnose under‑performing territories.
 
-- Maintain a **flexible leave** policy; no penalty to bonuses observed.
+- Maintain a flexible leave policy; no penalty to bonuses observed.
 
-- Pilot **wellness/ergonomic** programs; address night‑shift risks; monitor high‑leave departments.
+- Pilot wellness/ergonomic programs; address night‑shift risks; monitor high‑leave departments.
 
--  **Profile rising‑star stores** (20–22 months) and build a playbook to speed new‑store ramp‑up.
+-  Profile rising‑star stores (20–22 months) and build a playbook to speed new‑store ramp‑up.
 
--  **Audit older underperformers** (>30 months) for assortment, location, and management issues.
+-  Audit older underperformers (>30 months) for assortment, location, and management issues.
 
--  **Review medium‑sized stores**; require stronger business cases (≥30% above current average).
+-  Review medium‑sized stores; require stronger business cases (≥30% above current average).
 
   
