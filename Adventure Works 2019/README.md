@@ -42,13 +42,13 @@ This repository contains an interim analytics project using the **AdventureWorks
 
 2. Test whether employee vacation affects bonus outcomes.
 
-3. Compare **total** vs. **per‑customer** revenue across countries.
+3. Compare total vs. per‑customer revenue across countries.
 
 4. Analyse sick‑leave patterns by department, job title, person type, and shift.
 
 5. Examine the impact of trading duration on store revenue.
 
-6. Understand how store **size** and **team size** relate to revenue.
+6. Understand how store size and team size relate to revenue.
 
   
 
