@@ -60,7 +60,7 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 | What I did | Skills demonstrated |
 |------------|--------------------|
 | ▪ Built CTE‑driven T‑SQL pipelines across Sales, Person & HR; parsed XML store demographics (size & employees) | Advanced SQL (CTEs, joins, XML shredding) |
-| ▪ Quantified relationships (Pearson _r_, OLS trend) and normalised metrics (per‑customer / per‑employee) | Statistics & feature engineering |
+| ▪ Quantified relationships (Pearson r, OLS trend) and normalised metrics (per‑customer / per‑employee) | Statistics & feature engineering |
 | ▪ Produced executive visuals (bar & choropleth, scatter + regression with CI, heat‑map, pair‑plot, 3‑D scatter) | Visualisation & storytelling |
 | ▪ Turned analytics into actions (marketing focus, store audits, wellness initiatives) | Business insight & prioritisation |
 
