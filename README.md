@@ -55,7 +55,7 @@ Below is a quick tour—what the task was, what I produced, and a link to the fi
 
 ## 4. SQL + Python – AdventureWorks2019 Interim Project
 **Project:** **Adventure Works 2019 Data Analytics Report**  
-**Objective:** Answer six business questions (regional sales, leave vs bonus, country revenue, sick‑leave patterns, trading duration vs revenue, and store size/staffing vs revenue) using T‑SQL for extraction and Python for analysis/visuals—delivered as a **42‑page report** and **15‑slide executive deck** (completed **17 July 2025**, presented **21 July 2025**).
+**Objective:** Answer six business questions (regional sales, leave vs bonus, country revenue, sick‑leave patterns, trading duration vs revenue, and store size/staffing vs revenue) using T‑SQL for extraction and Python for analysis/visuals—delivered as a 42‑page report and 15‑slide executive deck (completed 17 July 2025, presented 21 July 2025).
 
 | What I did | Skills demonstrated |
 |------------|--------------------|
