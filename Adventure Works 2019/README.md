@@ -20,15 +20,15 @@ This repository contains an interim analytics project using the **AdventureWorks
 
 -  **Regional sales (USA):** Southwest is the top region (≈ **$27.15M**); Northeast is lowest (≈ **$7.82M**). Three states,**California, Washington, Texas**,contribute **~55%** of US revenue.
 
--  **Vacation vs. bonus:** No meaningful relationship (**r ≈ -0.041**) across 17 sales staff; taking leave does not harm bonus outcomes.
+-  **Vacation vs. bonus:** No meaningful relationship (**r = 0.041**) across 17 sales staff; taking leave does not harm bonus outcomes.
 
 -  **Country vs. revenue:**  **USA + Canada ≈ 72.5%** of global revenue. **Australia** ranks third on total revenue but **last** on *average revenue per customer*.
 
 -  **Sick leave patterns:** Production has the highest total hours (driven by large headcount). Shipping & Receiving shows the highest average hours per employee; Engineering the lowest. CEOs average ~69 hours; CFO/VP Eng ~20 hours.
 
--  **Store trading duration vs. revenue:** Moderate positive link (**r ≈ 0.41**). Stores trading **32–34 months** exceed **$0.30M** each; some **8–22‑month** stores already pass **$0.10M**.
+-  **Store trading duration vs. revenue:** Moderate positive link (**r = 0.41**). Stores trading **32–34 months** exceed **$0.30M** each; some **8–22‑month** stores already pass **$0.10M**.
 
--  **Store size & staffing vs. revenue:** Size and employee count are tightly linked (**r ≈ 0.97**), but **both have weak relationships with revenue**. Large stores average **~$192k**, small **~$172k**, while **medium** stores lag at **~$53k** on average.
+-  **Store size & staffing vs. revenue:** Size and employee count are tightly linked (**r ≈ 0.97**), but **both have weak relationships with revenue**. Large stores average **~$192k**, small **$172k**, while **medium** stores lag at **~$53k** on average.
 
 
 
