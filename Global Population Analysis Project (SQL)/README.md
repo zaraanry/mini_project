@@ -21,7 +21,7 @@ The dataset consists of two tables:
 
 | Question | SQL result | Interpretation |
 |----------|------------|----------------|
-| **Q-1 – “How many entries in the database are from Africa?”**<br>`SELECT COUNT(*) …` on the _joined_ tables | **616** | 56 African countries × 11 years = 616 distinct population records. |
+| **Q-1 – Number of entries in the database from Africa**<br>`SELECT COUNT(*) …` on the _joined_ tables | **616** | 56 African countries × 11 years = 616 distinct population records. |
 | **Q-2 – Total African population in 2010** | **1 015.478 46 million** | Africa crossed the **billion-person** mark by 2010. |
 | **Q-3 – Average population of South-American countries in 2000** | **24.863 million** | A typical South-American nation began the decade just under 25 million people. |
 | **Q-4 – Smallest population in 2007** | **Niue – 0.002 16 million** (≈ 2 160 people) | Niue is the micro-state with the lowest recorded population that year. |
