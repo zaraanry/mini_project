@@ -18,17 +18,17 @@ This repository contains an interim analytics project using the **AdventureWorks
 
   
 
--  **Regional sales (USA):** Southwest is the top region (≈ **$27.15M**); Northeast is lowest (≈ **$7.82M**). Three states,**California, Washington, Texas**,contribute **~55%** of US revenue.
+-  **Regional sales (USA):** Southwest is the top region ($27.15M); Northeast is lowest ($7.82M). Three states, California, Washington, Texas, contribute 55% of US revenue.
 
--  **Vacation vs. bonus:** No meaningful relationship (**r ≈ -0.041**) across 17 sales staff; taking leave does not harm bonus outcomes.
+-  **Vacation vs. bonus:** No meaningful relationship (r = 0.041) across 17 sales staff; taking leave does not harm bonus outcomes.
 
--  **Country vs. revenue:**  **USA + Canada ≈ 72.5%** of global revenue. **Australia** ranks third on total revenue but **last** on *average revenue per customer*.
+-  **Country vs. revenue:**  USA + Canada = 72.5% of global revenue. Australia ranks third on total revenue but last on average revenue per customer.
 
--  **Sick leave patterns:** Production has the highest total hours (driven by large headcount). Shipping & Receiving shows the highest average hours per employee; Engineering the lowest. CEOs average ~69 hours; CFO/VP Eng ~20 hours.
+-  **Sick leave patterns:** Production has the highest total hours (driven by large headcount). Shipping & Receiving shows the highest average hours per employee; Engineering the lowest. CEOs average 69 hours; CFO/VP Eng 20 hours.
 
--  **Store trading duration vs. revenue:** Moderate positive link (**r ≈ 0.41**). Stores trading **32–34 months** exceed **$0.30M** each; some **8–22‑month** stores already pass **$0.10M**.
+-  **Store trading duration vs. revenue:** Moderate positive link (r = 0.41). Stores trading 32–34 months exceed $0.30M each; some 8–22‑month stores already pass $0.10M.
 
--  **Store size & staffing vs. revenue:** Size and employee count are tightly linked (**r ≈ 0.97**), but **both have weak relationships with revenue**. Large stores average **~$192k**, small **~$172k**, while **medium** stores lag at **~$53k** on average.
+-  **Store size & staffing vs. revenue:** Size and employee count are tightly linked (r = 0.97), but both have weak relationships with revenue. Large stores average $192k, small $172k, while medium stores lag at $53k on average.
 
 
 
@@ -42,13 +42,13 @@ This repository contains an interim analytics project using the **AdventureWorks
 
 2. Test whether employee vacation affects bonus outcomes.
 
-3. Compare **total** vs. **per‑customer** revenue across countries.
+3. Compare total vs. per‑customer revenue across countries.
 
 4. Analyse sick‑leave patterns by department, job title, person type, and shift.
 
 5. Examine the impact of trading duration on store revenue.
 
-6. Understand how store **size** and **team size** relate to revenue.
+6. Understand how store size and team size relate to revenue.
 
   
 
@@ -78,16 +78,16 @@ This repository contains an interim analytics project using the **AdventureWorks
 
   
 
-- Focus marketing in **California, Washington, Texas** to lift revenue fastest; diagnose under‑performing territories.
+- Focus marketing in California, Washington, Texas to lift revenue fastest; diagnose under‑performing territories.
 
-- Maintain a **flexible leave** policy; no penalty to bonuses observed.
+- Maintain a flexible leave policy; no penalty to bonuses observed.
 
-- Pilot **wellness/ergonomic** programs; address night‑shift risks; monitor high‑leave departments.
+- Pilot wellness/ergonomic programs; address night‑shift risks; monitor high‑leave departments.
 
--  **Profile rising‑star stores** (20–22 months) and build a playbook to speed new‑store ramp‑up.
+-  Profile rising‑star stores (20–22 months) and build a playbook to speed new‑store ramp‑up.
 
--  **Audit older underperformers** (>30 months) for assortment, location, and management issues.
+-  Audit older underperformers (>30 months) for assortment, location, and management issues.
 
--  **Review medium‑sized stores**; require stronger business cases (≥30% above current average).
+-  Review medium‑sized stores; require stronger business cases (≥30% above current average).
 
   
