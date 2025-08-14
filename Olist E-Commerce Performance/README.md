@@ -5,7 +5,7 @@ This repository contains a final analytics project using the **Olist E‑Commerc
 > **Project dates:** Analysis completed 7 August 2025.
 
 ---
-**Quick links:** [Presentation (PDF)](https://github.com/zaraanry/mini_project/blob/main/Adventure%20Works%202019/Presentation.pdf) • [Full Report (PDF)](https://github.com/zaraanry/mini_project/blob/main/Adventure%20Works%202019/Interim%20Project.pdf)
+**Quick links:** [Presentation (PDF)](https://github.com/zaraanry/mini_project/blob/main/Olist%20E-Commerce%20Performance/Presentation.pdf) • [Full Report (PDF)](https://github.com/zaraanry/mini_project/blob/main/Olist%20E-Commerce%20Performance/Report.pdf)
 
 ---
 
